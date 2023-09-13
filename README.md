@@ -1,0 +1,1 @@
+This project is to create a basic recipe website. It will demonstrate HTML, CSS, and Javascript.
